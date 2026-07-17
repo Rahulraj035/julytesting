@@ -6,3 +6,4 @@ class ApiResponses {
         this .data =data;
     }
 }
+export { ApiResponses };
